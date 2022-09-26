@@ -1,1 +1,2 @@
-# my-awesome-project
+# my-awesome-project :
+I already managed to clone and pull and I'm just about to push
